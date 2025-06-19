@@ -1,4 +1,4 @@
-Student Mental Health Monitoring App
+🧠 Student Mental Health Monitoring App
 
 
 Overview:
